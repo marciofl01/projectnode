@@ -16,4 +16,3 @@ app.use('/user', user_routes_1.userRoutes);
 app.use('/videos', videos_routes_1.videoRoutes);
 app.listen(4000);
 
-// comentario desnecessario
